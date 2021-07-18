@@ -1,0 +1,13 @@
+<path class="node group-200 
+
+d=".*?"
+
+"  transform="translate
+
+<\/path>
+
+">
+
+group
+replace
+;\n$&
